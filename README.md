@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Virtual Mouse Pro - Showcase Website
 
 A modern and responsive showcase website for **AI Virtual Mouse Pro**, an AI-powered hand gesture mouse control system.
@@ -58,3 +59,7 @@ B.Tech CSE (AI & ML)
 ---
 
 ⭐ If you like this project, please consider giving it a star!
+=======
+# AI-Virtual-Mouse-Pro-Website
+Official showcase website for AI Virtual Mouse Pro built with HTML, CSS, and JavaScript.
+>>>>>>> 5cc7ffbe3c75342c4c8e153101643cab6cf8fad4
